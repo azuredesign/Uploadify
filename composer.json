@@ -1,0 +1,5 @@
+{
+    "name": "azuredesign/Uploadify",
+    "description": "Uploadify for Silverstripe",
+    "type": "silverstripe-module"
+}
